@@ -1,0 +1,121 @@
+ID,NOMBRE,EMAIL,TELEFONO,TIPO_CASO,CIUDAD,ESTADO,FECHA_CAPTURA,FUENTE,NOTAS
+1,Juan Garcia,juan.garcia@gmail.com,+56 9 1234 5678,Laboral,Santiago,Nuevo,2025-01-05,LinkedIn,Lead de LinkedIn
+2,Maria Martinez,maria.martinez@hotmail.com,+56 9 2345 6789,Civil,Vina del Mar,Calificado,2025-01-04,TikTok,Lead de TikTok
+3,Carlos Rodriguez,carlos.rodriguez@yahoo.com,+56 9 3456 7890,Penal,Valparaiso,En Negociacion,2025-01-03,X,Lead de X
+4,Ana Hernandez,ana.hernandez@outlook.com,+56 9 4567 8901,Administrativo,Concepcion,Rechazado,2025-01-02,Google Ads,Lead de Google Ads
+5,Luis Lopez,luis.lopez@empresa.cl,+56 9 5678 9012,Mercantil,Valdivia,Nuevo,2025-01-01,Facebook,Lead de Facebook
+6,Elena Gonzalez,elena.gonzalez@gmail.com,+56 9 6789 0123,Familiar,Puerto Montt,Calificado,2024-12-31,Instagram,Lead de Instagram
+7,Pedro Perez,pedro.perez@hotmail.com,+56 9 7890 1234,Arrendamiento,La Serena,En Negociacion,2024-12-30,Referencia,Referencia personal
+8,Rosa Sanchez,rosa.sanchez@yahoo.com,+56 9 8901 2345,Laboral,Coquimbo,Nuevo,2024-12-29,Directo,Contacto directo
+9,Miguel Torres,miguel.torres@gmail.com,+56 9 9012 3456,Civil,Antofagasta,Calificado,2024-12-28,LinkedIn,Lead de LinkedIn
+10,Sofia Ramirez,sofia.ramirez@hotmail.com,+56 9 1111 2222,Penal,Iquique,En Negociacion,2024-12-27,TikTok,Lead de TikTok
+11,Diego Cruz,diego.cruz@yahoo.com,+56 9 2222 3333,Administrativo,Santiago,Rechazado,2024-12-26,X,Lead de X
+12,Lucia Morales,lucia.morales@outlook.com,+56 9 3333 4444,Mercantil,Vina del Mar,Nuevo,2024-12-25,Google Ads,Lead de Google Ads
+13,Francisco Gutierrez,francisco.gutierrez@empresa.cl,+56 9 4444 5555,Familiar,Valparaiso,Calificado,2024-12-24,Facebook,Lead de Facebook
+14,Carmen Ortiz,carmen.ortiz@gmail.com,+56 9 5555 6666,Arrendamiento,Concepcion,En Negociacion,2024-12-23,Instagram,Lead de Instagram
+15,Antonio Jimenez,antonio.jimenez@hotmail.com,+56 9 6666 7777,Laboral,Valdivia,Nuevo,2024-12-22,Referencia,Referencia personal
+16,Isabel Romero,isabel.romero@yahoo.com,+56 9 7777 8888,Civil,Puerto Montt,Calificado,2024-12-21,Directo,Contacto directo
+17,Roberto Castro,roberto.castro@gmail.com,+56 9 8888 9999,Penal,La Serena,En Negociacion,2024-12-20,LinkedIn,Lead de LinkedIn
+18,Angela Reyes,angela.reyes@hotmail.com,+56 9 9999 1111,Administrativo,Coquimbo,Rechazado,2024-12-19,TikTok,Lead de TikTok
+19,Manuel Vargas,manuel.vargas@yahoo.com,+56 9 1010 1111,Mercantil,Antofagasta,Nuevo,2024-12-18,X,Lead de X
+20,Patricia Medina,patricia.medina@outlook.com,+56 9 2020 2222,Familiar,Iquique,Calificado,2024-12-17,Google Ads,Lead de Google Ads
+21,Jorge Pena,jorge.pena@empresa.cl,+56 9 3030 3333,Arrendamiento,Santiago,En Negociacion,2024-12-16,Facebook,Lead de Facebook
+22,Laura Vega,laura.vega@gmail.com,+56 9 4040 4444,Laboral,Vina del Mar,Nuevo,2024-12-15,Instagram,Lead de Instagram
+23,Ramon Silva,ramon.silva@hotmail.com,+56 9 5050 5555,Civil,Valparaiso,Calificado,2024-12-14,Referencia,Referencia personal
+24,Marta Dominguez,marta.dominguez@yahoo.com,+56 9 6060 6666,Penal,Concepcion,En Negociacion,2024-12-13,Directo,Contacto directo
+25,David Rivas,david.rivas@outlook.com,+56 9 7070 7777,Administrativo,Valdivia,Rechazado,2024-12-12,LinkedIn,Lead de LinkedIn
+26,Sandra Campos,sandra.campos@gmail.com,+56 9 8080 8888,Mercantil,Puerto Montt,Nuevo,2024-12-11,TikTok,Lead de TikTok
+27,Javier Aguilar,javier.aguilar@hotmail.com,+56 9 9090 9999,Familiar,La Serena,Calificado,2024-12-10,X,Lead de X
+28,Beatriz Aguirre,beatriz.aguirre@yahoo.com,+56 9 1111 0000,Arrendamiento,Coquimbo,En Negociacion,2024-12-09,Google Ads,Lead de Google Ads
+29,Enrique Nunez,enrique.nunez@outlook.com,+56 9 2222 1111,Laboral,Antofagasta,Nuevo,2024-12-08,Facebook,Lead de Facebook
+30,Dolores Acosta,dolores.acosta@gmail.com,+56 9 3333 2222,Civil,Iquique,Calificado,2024-12-07,Instagram,Lead de Instagram
+31,Andres Flores,andres.flores@hotmail.com,+56 9 4444 3333,Penal,Santiago,En Negociacion,2024-12-06,Referencia,Referencia personal
+32,Magdalena Moreno,magdalena.moreno@yahoo.com,+56 9 5555 4444,Administrativo,Vina del Mar,Rechazado,2024-12-05,Directo,Contacto directo
+33,Sergio Maldonado,sergio.maldonado@outlook.com,+56 9 6666 5555,Mercantil,Valparaiso,Nuevo,2024-12-04,LinkedIn,Lead de LinkedIn
+34,Francisca Molina,francisca.molina@gmail.com,+56 9 7777 6666,Familiar,Concepcion,Calificado,2024-12-03,TikTok,Lead de TikTok
+35,Felipe Ochoa,felipe.ochoa@hotmail.com,+56 9 8888 7777,Arrendamiento,Valdivia,En Negociacion,2024-12-02,X,Lead de X
+36,Josefa Salazar,josefa.salazar@yahoo.com,+56 9 9999 8888,Laboral,Puerto Montt,Nuevo,2024-12-01,Google Ads,Lead de Google Ads
+37,Raul Salinas,raul.salinas@outlook.com,+56 9 1010 9999,Civil,La Serena,Calificado,2024-11-30,Facebook,Lead de Facebook
+38,Manuela Salas,manuela.salas@gmail.com,+56 9 2020 1010,Penal,Coquimbo,En Negociacion,2024-11-29,Instagram,Lead de Instagram
+39,Ricardo Sandoval,ricardo.sandoval@hotmail.com,+56 9 3030 2020,Administrativo,Antofagasta,Rechazado,2024-11-28,Referencia,Referencia personal
+40,Catalina Santiago,catalina.santiago@yahoo.com,+56 9 4040 3030,Mercantil,Iquique,Nuevo,2024-11-27,Directo,Contacto directo
+41,Eduardo Santana,eduardo.santana@outlook.com,+56 9 5050 4040,Familiar,Santiago,Calificado,2024-11-26,LinkedIn,Lead de LinkedIn
+42,Irene Santis,irene.santis@gmail.com,+56 9 6060 5050,Arrendamiento,Vina del Mar,En Negociacion,2024-11-25,TikTok,Lead de TikTok
+43,Fernando Saravia,fernando.saravia@hotmail.com,+56 9 7070 6060,Laboral,Valparaiso,Nuevo,2024-11-24,X,Lead de X
+44,Victoria Sauceda,victoria.sauceda@yahoo.com,+56 9 8080 7070,Civil,Concepcion,Calificado,2024-11-23,Google Ads,Lead de Google Ads
+45,Guillermo Saucedo,guillermo.saucedo@outlook.com,+56 9 9090 8080,Penal,Valdivia,En Negociacion,2024-11-22,Facebook,Lead de Facebook
+46,Rocio Garcia,rocio.garcia@gmail.com,+56 9 1111 9090,Administrativo,Puerto Montt,Rechazado,2024-11-21,Instagram,Lead de Instagram
+47,Hector Martinez,hector.martinez@hotmail.com,+56 9 2222 1111,Mercantil,La Serena,Nuevo,2024-11-20,Referencia,Referencia personal
+48,Soledad Rodriguez,soledad.rodriguez@yahoo.com,+56 9 3333 2222,Familiar,Coquimbo,Calificado,2024-11-19,Directo,Contacto directo
+49,Ismael Hernandez,ismael.hernandez@outlook.com,+56 9 4444 3333,Arrendamiento,Antofagasta,En Negociacion,2024-11-18,LinkedIn,Lead de LinkedIn
+50,Marisa Lopez,marisa.lopez@gmail.com,+56 9 5555 4444,Laboral,Iquique,Nuevo,2024-11-17,TikTok,Lead de TikTok
+51,Julio Gonzalez,julio.gonzalez@hotmail.com,+56 9 6666 5555,Civil,Santiago,Calificado,2024-11-16,X,Lead de X
+52,Josefina Perez,josefina.perez@yahoo.com,+56 9 7777 6666,Penal,Vina del Mar,En Negociacion,2024-11-15,Google Ads,Lead de Google Ads
+53,Leopoldo Sanchez,leopoldo.sanchez@outlook.com,+56 9 8888 7777,Administrativo,Valparaiso,Rechazado,2024-11-14,Facebook,Lead de Facebook
+54,Esperanza Torres,esperanza.torres@gmail.com,+56 9 9999 8888,Mercantil,Concepcion,Nuevo,2024-11-13,Instagram,Lead de Instagram
+55,Marcelino Ramirez,marcelino.ramirez@hotmail.com,+56 9 1010 9999,Familiar,Valdivia,Calificado,2024-11-12,Referencia,Referencia personal
+56,Adoracion Cruz,adoracion.cruz@yahoo.com,+56 9 2020 1010,Arrendamiento,Puerto Montt,En Negociacion,2024-11-11,Directo,Contacto directo
+57,Nicolas Morales,nicolas.morales@outlook.com,+56 9 3030 2020,Laboral,La Serena,Nuevo,2024-11-10,LinkedIn,Lead de LinkedIn
+58,Consuela Gutierrez,consuela.gutierrez@gmail.com,+56 9 4040 3030,Civil,Coquimbo,Calificado,2024-11-09,TikTok,Lead de TikTok
+59,Oswaldo Ortiz,oswaldo.ortiz@hotmail.com,+56 9 5050 4040,Penal,Antofagasta,En Negociacion,2024-11-08,X,Lead de X
+60,Lidia Jimenez,lidia.jimenez@yahoo.com,+56 9 6060 5050,Administrativo,Iquique,Rechazado,2024-11-07,Google Ads,Lead de Google Ads
+61,Pascual Amparo,pascual.amparo@gmail.com,+56 9 7070 6060,Laboral,Vina del Mar,Nuevo,2024-11-06,LinkedIn,Lead de LinkedIn
+62,Raimundo Pillar,raimundo.pillar@hotmail.com,+56 9 8080 7070,Civil,Valparaiso,Calificado,2024-11-05,TikTok,Lead de TikTok
+63,Salvador Araceli,salvador.araceli@yahoo.com,+56 9 9090 8080,Penal,Concepcion,En Negociacion,2024-11-04,X,Lead de X
+64,Tomas Remedios,tomas.remedios@outlook.com,+56 9 1111 9090,Administrativo,Valdivia,Rechazado,2024-11-03,Google Ads,Lead de Google Ads
+65,Valentin Modesta,valentin.modesta@gmail.com,+56 9 2222 1111,Mercantil,Puerto Montt,Nuevo,2024-11-02,Facebook,Lead de Facebook
+66,Victor Serafina,victor.serafina@hotmail.com,+56 9 3333 2222,Familiar,La Serena,Calificado,2024-11-01,Instagram,Lead de Instagram
+67,Venancio Virgilia,venancio.virgilia@yahoo.com,+56 9 4444 3333,Arrendamiento,Coquimbo,En Negociacion,2024-10-31,Referencia,Referencia personal
+68,Vidal Valeria,vidal.valeria@outlook.com,+56 9 5555 4444,Laboral,Antofagasta,Nuevo,2024-10-30,Directo,Contacto directo
+69,Dionisio Violeta,dionisio.violeta@gmail.com,+56 9 6666 5555,Civil,Iquique,Calificado,2024-10-29,LinkedIn,Lead de LinkedIn
+70,Efren Valeriana,efren.valeriana@hotmail.com,+56 9 7777 6666,Penal,Santiago,En Negociacion,2024-10-28,TikTok,Lead de TikTok
+71,Epifanio Venancia,epifanio.venancia@yahoo.com,+56 9 8888 7777,Administrativo,Vina del Mar,Rechazado,2024-10-27,X,Lead de X
+72,Everardo Veronica,everardo.veronica@outlook.com,+56 9 9999 8888,Mercantil,Valparaiso,Nuevo,2024-10-26,Google Ads,Lead de Google Ads
+73,Emeterio Velia,emeterio.velia@gmail.com,+56 9 1010 9999,Familiar,Concepcion,Calificado,2024-10-25,Facebook,Lead de Facebook
+74,Eleuterio Verticinia,eleuterio.verticinia@hotmail.com,+56 9 2020 1010,Arrendamiento,Valdivia,En Negociacion,2024-10-24,Instagram,Lead de Instagram
+75,Euginio Vicencia,euginio.vicencia@yahoo.com,+56 9 3030 2020,Laboral,Puerto Montt,Nuevo,2024-10-23,Referencia,Referencia personal
+76,Evaristo Victorina,evaristo.victorina@outlook.com,+56 9 4040 3030,Civil,La Serena,Calificado,2024-10-22,Directo,Contacto directo
+77,Evencio Virgina,evencio.virgina@gmail.com,+56 9 5050 4040,Penal,Coquimbo,En Negociacion,2024-10-21,LinkedIn,Lead de LinkedIn
+78,Exuperancio Violerta,exuperancio.violerta@hotmail.com,+56 9 6060 5050,Administrativo,Antofagasta,Rechazado,2024-10-20,TikTok,Lead de TikTok
+79,Abelardo Angelina,abelardo.angelina@yahoo.com,+56 9 7070 6060,Mercantil,Iquique,Nuevo,2024-10-19,X,Lead de X
+80,Abundio Antonia,abundio.antonia@outlook.com,+56 9 8080 7070,Familiar,Santiago,Calificado,2024-10-18,Google Ads,Lead de Google Ads
+81,Acacio Apolonia,acacio.apolonia@gmail.com,+56 9 9090 8080,Arrendamiento,Vina del Mar,En Negociacion,2024-10-17,Facebook,Lead de Facebook
+82,Achileo Aracely,achileo.aracely@hotmail.com,+56 9 1111 9090,Laboral,Valparaiso,Nuevo,2024-10-16,Instagram,Lead de Instagram
+83,Adeodato Arcadia,adeodato.arcadia@yahoo.com,+56 9 2222 1111,Civil,Concepcion,Calificado,2024-10-15,Referencia,Referencia personal
+84,Adolfo Arcelia,adolfo.arcelia@outlook.com,+56 9 3333 2222,Penal,Valdivia,En Negociacion,2024-10-14,Directo,Contacto directo
+85,Agesilao Arecilda,agesilao.arecilda@gmail.com,+56 9 4444 3333,Administrativo,Puerto Montt,Rechazado,2024-10-13,LinkedIn,Lead de LinkedIn
+86,Agostino Arequipa,agostino.arequipa@hotmail.com,+56 9 5555 4444,Mercantil,La Serena,Nuevo,2024-10-12,TikTok,Lead de TikTok
+87,Agustin Argelia,agustin.argelia@yahoo.com,+56 9 6666 5555,Familiar,Coquimbo,Calificado,2024-10-11,X,Lead de X
+88,Aladino Argenta,aladino.argenta@outlook.com,+56 9 7777 6666,Arrendamiento,Antofagasta,En Negociacion,2024-10-10,Google Ads,Lead de Google Ads
+89,Alatriste Argentea,alatriste.argentea@gmail.com,+56 9 8888 7777,Laboral,Iquique,Nuevo,2024-10-09,Facebook,Lead de Facebook
+90,Alayo Argia,alayo.argia@hotmail.com,+56 9 9999 8888,Civil,Santiago,Calificado,2024-10-08,Instagram,Lead de Instagram
+91,Alban Argida,alban.argida@yahoo.com,+56 9 1010 9999,Penal,Vina del Mar,En Negociacion,2024-10-07,Referencia,Referencia personal
+92,Albano Argileda,albano.argileda@outlook.com,+56 9 2020 1010,Administrativo,Valparaiso,Rechazado,2024-10-06,Directo,Contacto directo
+93,Albarran Argilenta,albarran.argilenta@gmail.com,+56 9 3030 2020,Mercantil,Concepcion,Nuevo,2024-10-05,LinkedIn,Lead de LinkedIn
+94,Albeito Argilesa,albeito.argilesa@hotmail.com,+56 9 4040 3030,Familiar,Valdivia,Calificado,2024-10-04,TikTok,Lead de TikTok
+95,Alberico Argilesina,alberico.argilesina@yahoo.com,+56 9 5050 4040,Arrendamiento,Puerto Montt,En Negociacion,2024-10-03,X,Lead de X
+96,Alberto Argilindes,alberto.argilindes@outlook.com,+56 9 6060 5050,Laboral,La Serena,Nuevo,2024-10-02,Google Ads,Lead de Google Ads
+97,Albino Argilea,albino.argilea@gmail.com,+56 9 7070 6060,Civil,Coquimbo,Calificado,2024-10-01,Facebook,Lead de Facebook
+98,Albricio Argileza,albricio.argileza@hotmail.com,+56 9 8080 7070,Penal,Antofagasta,En Negociacion,2024-09-30,Instagram,Lead de Instagram
+99,Albucio Argilia,albucio.argilia@yahoo.com,+56 9 9090 8080,Administrativo,Iquique,Rechazado,2024-09-29,Referencia,Referencia personal
+100,Albucinea Argilla,albucinea.argilla@outlook.com,+56 9 1111 9090,Mercantil,Santiago,Nuevo,2024-09-28,Directo,Contacto directo
+101,Alcaida Argillos,alcaida.argillos@gmail.com,+56 9 2222 1111,Familiar,Vina del Mar,Calificado,2024-09-27,LinkedIn,Lead de LinkedIn
+102,Alcalde Argilosa,alcalde.argilosa@hotmail.com,+56 9 3333 2222,Arrendamiento,Valparaiso,En Negociacion,2024-09-26,TikTok,Lead de TikTok
+103,Alcalino Argilsera,alcalino.argilsera@yahoo.com,+56 9 4444 3333,Laboral,Concepcion,Nuevo,2024-09-25,X,Lead de X
+104,Alcamenes Argimena,alcamenes.argimena@outlook.com,+56 9 5555 4444,Civil,Valdivia,Calificado,2024-09-24,Google Ads,Lead de Google Ads
+105,Alcamira Argimira,alcamira.argimira@gmail.com,+56 9 6666 5555,Penal,Puerto Montt,En Negociacion,2024-09-23,Facebook,Lead de Facebook
+106,Alcander Argina,alcander.argina@hotmail.com,+56 9 7777 6666,Administrativo,La Serena,Rechazado,2024-09-22,Instagram,Lead de Instagram
+107,Alcando Arginea,alcando.arginea@yahoo.com,+56 9 8888 7777,Mercantil,Coquimbo,Nuevo,2024-09-21,Referencia,Referencia personal
+108,Alcanes Arginia,alcanes.arginia@outlook.com,+56 9 9999 8888,Familiar,Antofagasta,Calificado,2024-09-20,Directo,Contacto directo
+109,Alcanor Argino,alcanor.argino@gmail.com,+56 9 1010 9999,Arrendamiento,Iquique,En Negociacion,2024-09-19,LinkedIn,Lead de LinkedIn
+110,Alcanso Arginosa,alcanso.arginosa@hotmail.com,+56 9 2020 1010,Laboral,Santiago,Nuevo,2024-09-18,TikTok,Lead de TikTok
+111,Alcantara Argira,alcantara.argira@yahoo.com,+56 9 3030 2020,Civil,Vina del Mar,Calificado,2024-09-17,X,Lead de X
+112,Alcantarilla Argis,alcantarilla.argis@outlook.com,+56 9 4040 3030,Penal,Valparaiso,En Negociacion,2024-09-16,Google Ads,Lead de Google Ads
+113,Alcantarillero Argison,alcantarillero.argison@gmail.com,+56 9 5050 4040,Administrativo,Concepcion,Rechazado,2024-09-15,Facebook,Lead de Facebook
+114,Alcaparra Argitada,alcaparra.argitada@hotmail.com,+56 9 6060 5050,Mercantil,Valdivia,Nuevo,2024-09-14,Instagram,Lead de Instagram
+115,Alcaparrilla Argitana,alcaparrilla.argitana@yahoo.com,+56 9 7070 6060,Familiar,Puerto Montt,Calificado,2024-09-13,Referencia,Referencia personal
+116,Alcaparro Argitanos,alcaparro.argitanos@outlook.com,+56 9 8080 7070,Arrendamiento,La Serena,En Negociacion,2024-09-12,Directo,Contacto directo
+117,Alcapurria Argitara,alcapurria.argitara@gmail.com,+56 9 9090 8080,Laboral,Coquimbo,Nuevo,2024-09-11,LinkedIn,Lead de LinkedIn
+118,Alcaraz Argitera,alcaraz.argitera@hotmail.com,+56 9 1111 9090,Civil,Antofagasta,Calificado,2024-09-10,TikTok,Lead de TikTok
+119,Alcaravea Argitesa,alcaravea.argitesa@yahoo.com,+56 9 2222 1111,Penal,Iquique,En Negociacion,2024-09-09,X,Lead de X
+120,Alcaravella Argitia,alcaravella.argitia@outlook.com,+56 9 3333 2222,Administrativo,Santiago,Rechazado,2024-09-08,Google Ads,Lead de Google Ads
