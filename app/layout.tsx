@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import Navigation from './components/Navigation';
 
 export const metadata: Metadata = {
   title: 'Abogado Virtual',
@@ -14,12 +13,19 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-      <body className="bg-gradient-to-b from-blue-900 via-blue-800 to-blue-700 min-h-screen">
-        <div className="max-w-md mx-auto bg-gradient-to-b from-blue-900 to-blue-800 min-h-screen relative">
-          <div className="pb-24">
-            {children}
-          </div>
-          <Navigation />
+      <body style={{
+        background: 'linear-gradient(135deg, #0066cc 0%, #0052a3 100%)',
+        minHeight: '100vh',
+        margin: 0,
+        padding: 0,
+        fontFamily: 'system-ui, -apple-system, sans-serif',
+      }}>
+        <div style={{
+          minHeight: '100vh',
+          display: 'flex',
+          flexDirection: 'column',
+        }}>
+          {children}
         </div>
       </body>
     </html>
